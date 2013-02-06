@@ -11,4 +11,5 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   Before you begin <start>
    List of all questions <do_all_this>
